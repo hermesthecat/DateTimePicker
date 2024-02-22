@@ -1519,7 +1519,7 @@ $.cf = {
 				$(document).on("click.DateTimePicker", function(e)
 				{
 					if (oDTP.oData.bElemFocused)
-						oDTP._hidePicker("");
+						//oDTP._hidePicker("");
 				});
 			}
 		
